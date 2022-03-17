@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Doubletapp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="new_habit">New Habit</string>
+    <string name="previous">Previous</string>
+    <string-array name="priorities">
+        <item>Высокий приоритет</item>
+        <item>Средний приоритет</item>
+        <item>Низкий приоритет</item>
+    </string-array>
+</resources>
